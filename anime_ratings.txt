@@ -1,0 +1,1002 @@
+RANK	TITLE									SCORE	MEMBERS
+----	-----									-----	-------
+1	Death Note								8.67	1,540,577
+2	Shingeki no Kyojin							8.48	1,431,713
+3	Sword Art Online							7.60	1,378,045
+4	Fullmetal Alchemist: Brotherhood					9.25	1,284,848
+5	One Punch Man								8.71	1,114,360
+6	Tokyo Ghoul								7.99	1,088,445
+7	Steins;Gate								9.14	1,083,080
+8	Angel Beats!								8.30	1,064,413
+9	Naruto									7.89	1,041,294
+10	Code Geass: Hangyaku no Lelouch						8.78	1,040,972
+11	No Game No Life								8.39	1,040,594
+12	Mirai Nikki								7.86	1,020,554
+13	Toradora!								8.38	964,662
+14	Ao no Exorcist								7.81	911,818
+15	Noragami								8.14	910,862
+16	Sword Art Online II							7.18	884,837
+17	Boku no Hero Academia							8.43	876,211
+18	Elfen Lied								7.74	872,808
+19	Fairy Tail								8.05	864,225
+20	Bleach									7.89	858,364
+21	Naruto: Shippuuden							8.18	848,048
+22	Tengen Toppa Gurren Lagann						8.73	835,095
+23	Code Geass: Hangyaku no Lelouch R2					8.94	834,778
+24	Akame ga Kill!								7.78	831,379
+25	Soul Eater								8.02	831,218
+26	Fullmetal Alchemist							8.28	826,914
+27	Kimi no Na wa.								9.16	822,891
+28	Kill la Kill								8.19	813,924
+29	Another									7.74	813,215
+30	Psycho-Pass								8.44	797,861
+31	Hunter x Hunter (2011)							9.11	786,415
+32	Re:Zero kara Hajimeru Isekai Seikatsu					8.41	785,948
+33	Durarara!!								8.28	781,878
+34	Shigatsu wa Kimi no Uso							8.87	778,251
+35	Highschool of the Dead							7.34	775,586
+36	Clannad									8.20	773,494
+37	One Piece								8.53	766,704
+38	Cowboy Bebop								8.81	757,772
+39	Boku dake ga Inai Machi							8.55	757,683
+40	Sen to Chihiro no Kamikakushi						8.91	752,538
+41	Tokyo Ghoul √A								7.41	736,176
+42	Kiseijuu: Sei no Kakuritsu						8.51	727,005
+43	Shingeki no Kyojin Season 2						8.45	724,685
+44	Fate/Zero								8.43	706,627
+45	Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.		8.54	703,258
+46	Bakemonogatari								8.35	702,828
+47	Death Parade								8.25	699,671
+48	Nanatsu no Taizai							8.26	698,891
+49	Boku no Hero Academia 2nd Season					8.73	693,721
+50	Neon Genesis Evangelion							8.32	683,913
+51	Hataraku Maou-sama!							7.96	672,144
+52	Guilty Crown								7.72	671,990
+53	Mahou Shoujo Madoka★Magica						8.45	670,560
+54	Shokugeki no Souma							8.53	663,974
+55	Deadman Wonderland							7.39	661,630
+56	Kono Subarashii Sekai ni Shukufuku wo!					8.17	643,842
+57	Clannad: After Story							9.00	636,750
+58	Ansatsu Kyoushitsu							8.21	632,194
+59	High School DxD								7.59	625,140
+60	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka		7.82	607,726
+61	Chuunibyou demo Koi ga Shitai!						7.88	597,226
+62	Noragami Aragoto							8.40	593,772
+63	Kuroshitsuji								7.98	589,460
+64	Sakurasou no Pet na Kanojo						8.32	589,445
+65	Log Horizon								8.08	588,364
+66	Koe no Katachi								9.03	588,259
+67	Darker than Black: Kuro no Keiyakusha					8.20	585,907
+68	Charlotte								7.91	578,353
+69	Samurai Champloo							8.50	578,225
+70	Dragon Ball Z								8.30	566,811
+71	Hyouka									8.15	566,305
+72	Suzumiya Haruhi no Yuuutsu						7.98	565,701
+73	Ouran Koukou Host Club							8.33	561,298
+74	Kaichou wa Maid-sama!							8.20	558,663
+75	Yahari Ore no Seishun Love Comedy wa Machigatteiru.			8.10	558,054
+76	Kyoukai no Kanata							7.87	549,774
+77	Overlord								8.07	546,593
+78	Zankyou no Terror							8.20	544,595
+79	Nisekoi									7.80	543,375
+80	Mononoke Hime								8.79	542,528
+81	Mob Psycho 100								8.50	541,421
+82	Owari no Seraph								7.62	533,563
+83	Fate/Zero 2nd Season							8.65	530,445
+84	K-On!									7.86	525,865
+85	Fate/stay night								7.50	524,485
+86	Haikyuu!!								8.65	524,181
+87	Kuroko no Basket							8.35	511,932
+88	Howl no Ugoku Shiro							8.73	511,836
+89	Tonari no Kaibutsu-kun							7.69	507,909
+90	Baccano!								8.48	507,397
+91	Magi: The Labyrinth of Magic						8.20	497,976
+92	Black Bullet								7.36	493,379
+93	Btooom!									7.57	487,536
+94	Gintama									9.00	486,315
+95	Zero no Tsukaima							7.52	484,458
+96	Byousoku 5 Centimeter							7.92	482,342
+97	Black Lagoon								8.13	473,471
+98	Higurashi no Naku Koro ni						8.08	471,651
+99	Kono Subarashii Sekai ni Shukufuku wo! 2				8.36	471,594
+100	Dragon Ball								8.15	470,719
+101	Mahouka Koukou no Rettousei						7.73	466,425
+102	Ookami to Koushinryou							8.34	464,616
+103	Boku wa Tomodachi ga Sukunai						7.44	463,878
+104	Date A Live								7.45	459,841
+105	Accel World								7.51	453,981
+106	Hellsing Ultimate							8.51	451,865
+107	Fate/stay night: Unlimited Blade Works					8.32	451,662
+108	Boku no Hero Academia 3rd Season					8.73	446,825
+109	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation	7.46	446,235
+110	Gekkan Shoujo Nozaki-kun						8.13	444,655
+111	D.Gray-man								8.15	440,514
+112	Kimi ni Todoke								8.12	438,662
+113	Ore no Imouto ga Konnani Kawaii Wake ga Nai				7.32	436,921
+114	Shinsekai yori								8.47	436,866
+115	Toaru Majutsu no Index							7.61	435,727
+116	Toki wo Kakeru Shoujo							8.33	435,479
+117	FLCL									8.07	435,051
+118	Tonari no Totoro							8.44	432,788
+119	Fairy Tail (2014)							8.10	432,744
+120	Shokugeki no Souma: Ni no Sara						8.45	431,674
+121	Mushishi								8.73	430,348
+122	ReLIFE									8.13	428,883
+123	High School DxD New							7.76	427,103
+124	Ansatsu Kyoushitsu 2nd Season						8.65	424,517
+125	Golden Time								7.88	423,883
+126	Kokoro Connect								7.94	422,355
+127	Claymore								7.86	421,077
+128	K									7.67	420,772
+129	Violet Evergarden							8.59	416,861
+130	Prison School								7.89	414,230
+131	Hellsing								7.60	412,272
+132	Nichijou								8.52	406,728
+133	Koutetsujou no Kabaneri							7.30	406,508
+134	Baka to Test to Shoukanjuu						7.75	404,809
+135	Kore wa Zombie Desu ka?							7.57	404,606
+136	NHK ni Youkoso!								8.37	403,191
+137	Rosario to Vampire							7.04	401,890
+138	Gate: Jieitai Kanochi nite, Kaku Tatakaeri				7.88	400,237
+139	Kekkai Sensen								7.73	399,546
+140	Magi: The Kingdom of Magic						8.43	399,126
+141	Danshi Koukousei no Nichijou						8.34	398,257
+142	Lucky☆Star								7.82	396,059
+143	Trigun									8.30	394,579
+144	Kobayashi-san Chi no Maid Dragon					8.17	391,438
+145	Made in Abyss								8.89	391,430
+146	InuYasha								7.91	389,550
+147	Darling in the FranXX							7.64	386,857
+148	Ookami Kodomo no Ame to Yuki						8.76	384,161
+149	Nisemonogatari								8.20	383,991
+150	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku		8.28	383,429
+151	Kami nomi zo Shiru Sekai						7.87	381,603
+152	JoJo no Kimyou na Bouken (TV)						8.40	381,549
+153	Great Teacher Onizuka							8.73	381,462
+154	School Days								6.00	378,712
+155	Bungou Stray Dogs							7.81	376,983
+156	Monster									8.68	376,913
+157	Shakugan no Shana							7.64	376,201
+158	Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!		7.22	375,536
+159	Plastic Memories							8.00	375,356
+160	Free!									7.57	373,866
+161	Kuroko no Basket 2nd Season						8.47	373,368
+162	Mahoutsukai no Yome							8.24	370,614
+163	Trinity Seven								7.40	369,315
+164	Rakudai Kishi no Cavalry						7.74	366,694
+165	Hai to Gensou no Grimgar						7.82	366,178
+166	Haikyuu!! Second Season							8.86	365,674
+167	Akatsuki no Yona							8.18	363,301
+168	Vampire Knight								7.29	362,148
+169	Fate/stay night: Unlimited Blade Works 2nd Season			8.40	361,760
+170	Zetsuen no Tempest							8.10	361,200
+171	Blood Lad								7.49	360,948
+172	Higashi no Eden								7.94	360,110
+173	Ergo Proxy								7.99	358,815
+174	IS: Infinite Stratos							7.01	357,710
+175	Ao Haru Ride								7.82	356,178
+176	Barakamon								8.47	350,061
+177	Bakuman.								8.31	350,001
+178	Ghost in the Shell							8.34	349,935
+179	Katekyo Hitman Reborn!							8.30	347,081
+180	Kiznaiver								7.57	345,822
+181	Strike the Blood							7.34	345,450
+182	Shiki									7.90	343,921
+183	High School DxD BorN							7.65	343,605
+184	Psycho-Pass 2								7.53	342,918
+185	Yamada-kun to 7-nin no Majo						7.83	342,597
+186	Suzumiya Haruhi no Shoushitsu						8.72	341,126
+187	To LOVE-Ru								7.24	340,289
+188	Rokka no Yuusha								7.51	340,209
+189	Kotonoha no Niwa							8.24	339,656
+190	Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai		7.48	339,565
+191	K-On!!									8.14	339,447
+192	Aldnoah.Zero								7.56	338,735
+193	Hotarubi no Mori e							8.53	336,119
+194	Akira									8.16	334,349
+195	Amagi Brilliant Park							7.62	333,803
+196	Full Metal Panic!							7.74	332,660
+197	Nagi no Asu kara							8.23	331,682
+198	Owari no Seraph: Nagoya Kessen-hen					7.78	329,766
+199	Log Horizon 2nd Season							7.67	329,281
+200	Sukitte Ii na yo.							7.66	329,055
+201	Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?				7.77	328,532
+202	Chobits									7.52	327,383
+203	Monogatari Series: Second Season					8.77	326,145
+204	Sankarea								7.48	322,930
+205	Gosick									8.19	322,348
+206	Monster Musume no Iru Nichijou						7.28	322,223
+207	Dragon Ball GT								6.66	321,965
+208	Shingeki no Kyojin Season 3						8.59	321,261
+209	Chuunibyou demo Koi ga Shitai! Ren					7.60	321,164
+210	Masamune-kun no Revenge							7.02	320,587
+211	Suzumiya Haruhi no Yuuutsu (2009)					7.26	320,387
+212	Beelzebub								8.02	319,670
+213	Zero no Tsukaima: Futatsuki no Kishi					7.65	318,729
+214	Sakamoto desu ga?							7.67	318,674
+215	Eureka Seven								8.14	318,548
+216	Neon Genesis Evangelion: The End of Evangelion				8.49	317,781
+217	Kenpuu Denki Berserk							8.46	315,248
+218	Lovely★Complex								8.17	315,028
+219	Summer Wars								8.21	314,543
+220	Ore Monogatari!!							8.06	313,967
+221	Pokemon									7.42	312,614
+222	Kuroshitsuji II								7.46	311,939
+223	Kakegurui								7.54	311,831
+224	Serial Experiments Lain							8.00	309,918
+225	Toaru Kagaku no Railgun							7.82	308,751
+226	Orange									7.71	307,955
+227	Kuroko no Basket 3rd Season						8.52	307,842
+228	Kiss x Sis (TV)								6.94	306,479
+229	Boku wa Tomodachi ga Sukunai Next					7.57	306,012
+230	Sora no Otoshimono							7.55	305,475
+231	Steins;Gate Movie: Fuka Ryouiki no Déjà vu				8.57	303,540
+232	Yuri!!! on Ice								8.15	303,310
+233	Katanagatari								8.43	302,837
+234	Nisekoi:								7.49	302,765
+235	Fruits Basket								7.77	302,250
+236	Gangsta.								7.46	301,738
+237	Steins;Gate 0								8.71	299,973
+238	Natsume Yuujinchou							8.39	299,762
+239	Inu x Boku SS								7.62	296,711
+240	God Eater								7.48	296,335
+241	Shinmai Maou no Testament						7.05	296,232
+242	Ajin									7.66	296,030
+243	Seitokai Yakuindomo							7.67	295,785
+244	Gakusen Toshi Asterisk							7.11	295,478
+245	Tokyo Ghoul:re								7.40	294,854
+246	Himouto! Umaru-chan							7.38	294,677
+247	Overlord II								7.98	293,407
+248	Grisaia no Kajitsu							7.67	293,122
+249	Shokugeki no Souma: San no Sara						8.47	292,519
+250	Yuu☆Yuu☆Hakusho								8.48	292,230
+251	Pandora Hearts								7.84	291,710
+252	Ao no Exorcist: Kyoto Fujouou-hen					7.67	291,138
+253	Ookami to Koushinryou II						8.42	289,154
+254	Youjo Senki								8.13	287,680
+255	Rurouni Kenshin: Meiji Kenkaku Romantan					8.39	287,518
+256	Date A Live II								7.44	287,164
+257	Ichiban Ushiro no Daimaou						7.12	287,067
+258	Zero no Tsukaima: Princesses no Rondo					7.55	284,061
+259	Nanatsu no Taizai: Imashime no Fukkatsu					8.31	283,908
+260	Usagi Drop								8.51	283,457
+261	Darker than Black: Ryuusei no Gemini					7.56	283,148
+262	Kaze no Stigma								7.42	282,220
+263	Eromanga-sensei								6.85	282,123
+264	Saenai Heroine no Sodatekata						7.64	281,966
+265	Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou		8.98	281,914
+266	Higurashi no Naku Koro ni Kai						8.33	281,849
+267	Kamisama Hajimemashita							8.13	281,754
+268	Hentai Ouji to Warawanai Neko.						7.38	281,691
+269	Mekakucity Actors							7.18	281,070
+270	Absolute Duo								6.74	279,658
+271	Mayo Chiki!								7.46	278,842
+272	Dragon Ball Super							7.73	277,951
+273	Durarara!!x2 Shou							8.10	276,081
+274	91 Days									7.88	275,774
+275	Nana									8.50	275,267
+276	No Game No Life: Zero							8.66	275,077
+277	Akagami no Shirayuki-hime						7.91	274,717
+278	Black Lagoon: The Second Barrage					8.26	273,349
+279	Black Clover								6.76	272,483
+280	Nekomonogatari: Kuro							8.04	272,367
+281	Ore no Imouto ga Konnani Kawaii Wake ga Nai.				7.27	272,232
+282	Musaigen no Phantom World						7.00	269,665
+283	Rokudenashi Majutsu Koushi to Akashic Records				7.36	269,294
+284	Kuzu no Honkai								7.55	269,103
+285	Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season			7.90	269,061
+286	One Punch Man 2								N/A	268,879
+287	Rosario to Vampire Capu2						7.16	265,358
+288	Working!!								7.78	264,504
+289	Little Witch Academia (TV)						8.11	264,069
+290	Hotaru no Haka								8.55	263,250
+291	Sword Art Online Movie: Ordinal Scale					8.02	262,637
+292	Ghost in the Shell: Stand Alone Complex					8.46	262,384
+293	Evangelion: 1.0 You Are (Not) Alone					8.15	261,195
+294	Drifters								8.04	260,770
+295	Tokyo Ravens								7.71	260,162
+296	Blood+									7.75	259,785
+297	Tsurezure Children							7.87	259,562
+298	B-gata H-kei								7.09	255,029
+299	JoJo no Kimyou na Bouken: Stardust Crusaders				8.24	254,911
+300	Gamers!									7.22	254,411
+301	Black★Rock Shooter (TV)							6.98	254,001
+302	Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama ...	7.44	253,615
+303	Kami nomi zo Shiru Sekai II						8.06	253,034
+304	Toaru Majutsu no Index II						7.78	251,822
+305	Sekirei									7.31	249,483
+306	Evangelion: 2.0 You Can (Not) Advance					8.43	248,443
+307	Love Live! School Idol Project						7.60	248,380
+308	Yosuga no Sora: In Solitude, Where We Are Least Alone.			6.56	248,176
+309	Netoge no Yome wa Onnanoko ja Nai to Omotta?				7.06	247,938
+310	Cardcaptor Sakura							8.21	247,935
+311	Kore wa Zombie Desu ka? of the Dead					7.70	247,767
+312	Ore no Kanojo to Osananajimi ga Shuraba Sugiru				7.26	246,878
+313	Dakara Boku wa, H ga Dekinai.						6.85	246,736
+314	Zero no Tsukaima F							7.70	246,453
+315	Shingeki no Bahamut: Genesis						7.75	246,115
+316	Paprika									8.11	245,045
+317	Hajime no Ippo								8.79	245,026
+318	Baka to Test to Shoukanjuu Ni!						7.90	244,967
+319	Boruto: Naruto Next Generations						6.97	244,726
+320	Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e				7.93	244,385
+321	Hunter x Hunter								8.47	244,312
+322	Air Gear								7.63	243,367
+323	Digimon Adventure							7.87	243,101
+324	Vampire Knight: Guilty							7.44	242,245
+325	Kara no Kyoukai 1: Fukan Fuukei						7.73	241,376
+326	Maoyuu Maou Yuusha							7.42	241,042
+327	Shirobako								8.43	240,347
+328	Sousei no Onmyouji							7.42	238,029
+329	Steins;Gate: Oukoubakko no Poriomania					8.43	237,453
+330	Tasogare Otome x Amnesia						7.93	236,575
+331	Hidan no Aria								7.06	236,002
+332	Re:Creators								7.67	235,373
+333	Hitsugi no Chaika							7.40	235,279
+334	Kimi ni Todoke 2nd Season						8.11	234,989
+335	Dagashi Kashi								6.70	233,679
+336	D-Frag!									7.69	231,933
+337	No.6									7.71	231,183
+338	Gintama&amp;#039;							9.10	229,400
+339	Majo no Takkyuubin							8.29	229,338
+340	Hagure Yuusha no Aesthetica						7.14	229,233
+341	Gakkougurashi!								7.69	229,104
+342	Ano Natsu de Matteru							7.63	229,071
+343	Fullmetal Alchemist: The Conqueror of Shamballa				7.68	228,741
+344	Jigoku Shoujo								7.74	227,617
+345	Shakugan no Shana II (Second)						7.71	227,127
+346	Suisei no Gargantia							7.59	226,783
+347	Inuyashiki								7.86	226,193
+348	Bokura wa Minna Kawai-sou						7.82	225,965
+349	Devilman: Crybaby							7.98	225,869
+350	Special A								7.71	225,725
+351	Chihayafuru								8.28	225,665
+352	Arslan Senki (TV)							7.81	224,549
+353	Shaman King								7.83	224,279
+354	Bungou Stray Dogs 2nd Season						8.31	224,169
+355	Ookami Shoujo to Kuro Ouji						7.40	222,735
+356	School Rumble								8.02	221,870
+357	Sayonara Zetsubou Sensei						7.97	221,730
+358	ChäoS;HEAd								6.50	221,525
+359	Inou-Battle wa Nichijou-kei no Naka de					7.28	221,275
+360	Air									7.41	221,047
+361	Gantz									7.18	220,589
+362	Arakawa Under the Bridge						7.66	220,455
+363	3-gatsu no Lion								8.44	219,389
+364	Gokukoku no Brynhildr							7.04	219,181
+365	JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season			8.56	218,688
+366	Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou			7.27	218,113
+367	Panty &amp;amp; Stocking with Garterbelt				7.77	217,745
+368	New Game!								7.73	217,371
+369	Gintama°								9.14	217,320
+370	Tenkuu no Shiro Laputa							8.38	217,151
+371	Hibike! Euphonium							8.02	217,093
+372	Wolf&amp;#039;s Rain							7.89	216,773
+373	Haiyore! Nyaruko-san							7.19	215,763
+374	Blend S									7.57	213,841
+375	Amagami SS								7.50	212,884
+376	IS: Infinite Stratos 2							6.78	212,728
+377	Kizumonogatari I: Tekketsu-hen						8.43	212,469
+378	Gake no Ue no Ponyo							7.93	212,440
+379	Bakuman. 2nd Season							8.48	211,872
+380	Freezing								7.09	211,783
+381	Seto no Hanayome							7.88	211,685
+382	Full Metal Panic? Fumoffu						8.15	211,446
+383	Free!: Eternal Summer							7.85	211,079
+384	Net-juu no Susume							7.83	210,924
+385	JoJo no Kimyou na Bouken: Diamond wa Kudakenai				8.64	210,830
+386	Phantom: Requiem for the Phantom					8.10	210,702
+387	Owarimonogatari								8.45	210,599
+388	Yuru Yuri								7.67	210,574
+389	Azumanga Daioh								8.03	210,414
+390	Devil May Cry								7.10	210,269
+391	Rainbow: Nisha Rokubou no Shichinin					8.58	209,025
+392	Durarara!!x2 Ten							8.09	208,930
+393	Aldnoah.Zero 2nd Season							7.10	208,669
+394	Nodame Cantabile							8.40	206,966
+395	Hanamonogatari								8.07	205,378
+396	Ben-To									7.41	204,635
+397	Sword Art Online Alternative: Gun Gale Online				7.32	204,606
+398	Non Non Biyori								8.00	204,412
+399	Hanasaku Iroha								8.00	204,407
+400	C: The Money of Soul and Possibility Control				7.36	203,523
+401	Sakamichi no Apollon							8.43	203,089
+402	Nanatsu no Taizai: Seisen no Shirushi					7.42	202,760
+403	Mikakunin de Shinkoukei							7.54	202,592
+404	Mirai Nikki: Redial							7.60	201,638
+405	Clannad: Mou Hitotsu no Sekai, Tomoyo-hen				8.09	200,565
+406	Seikon no Qwaser							6.69	200,529
+407	Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari		8.46	200,470
+408	To LOVE-Ru Darkness							7.69	200,290
+409	Kami nomi zo Shiru Sekai: Megami-hen					8.21	200,089
+410	Demi-chan wa Kataritai							7.75	199,530
+411	Outbreak Company							7.47	199,278
+412	Mawaru Penguindrum							8.02	198,849
+413	Denpa Onna to Seishun Otoko						7.26	198,657
+414	Perfect Blue								8.34	198,502
+415	Shuffle!								7.22	198,212
+416	Kaze no Tani no Nausicaä						8.46	197,830
+417	Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen			8.38	197,582
+418	Yojouhan Shinwa Taikei							8.65	197,392
+419	Machine-Doll wa Kizutsukanai						7.31	197,231
+420	Gabriel DropOut								7.58	196,644
+421	Seireitsukai no Blade Dance						7.07	196,384
+422	Grisaia no Rakuen							8.03	196,073
+423	Durarara!!x2 Ketsu							8.18	195,253
+424	Little Witch Academia							7.95	195,188
+425	Sora no Otoshimono: Forte						7.73	195,172
+426	Tsukimonogatari								8.19	195,112
+427	Kanon (2006)								8.09	195,009
+428	Yu☆Gi☆Oh! Duel Monsters							7.57	194,884
+429	Fate/Apocrypha								7.18	194,547
+430	Mousou Dairinin								7.73	194,314
+431	Isshuukan Friends.							7.65	193,983
+432	Jormungand								7.92	193,977
+433	Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou	6.96	193,923
+434	Wotaku ni Koi wa Muzukashii						8.07	193,524
+435	Bakuman. 3rd Season							8.66	192,979
+436	Beck									8.37	192,741
+437	xxxHOLiC								8.08	192,218
+438	Full Metal Panic! The Second Raid					8.03	191,979
+439	Dimension W								7.30	191,690
+440	Tales of Zestiria the X							7.46	191,548
+441	Danna ga Nani wo Itteiru ka Wakaranai Ken				7.50	191,377
+442	Tsuki ga Kirei								8.32	191,151
+443	Bishoujo Senshi Sailor Moon						7.73	190,979
+444	Keijo!!!!!!!!								7.28	190,836
+445	Cowboy Bebop: Tengoku no Tobira						8.41	190,672
+446	Ookami-san to Shichinin no Nakama-tachi					7.32	190,584
+447	Gakusen Toshi Asterisk 2nd Season					7.30	190,558
+448	Toaru Kagaku no Railgun S						8.11	190,186
+449	Code:Breaker								6.96	188,935
+450	Kuroshitsuji: Book of Circus						8.32	188,587
+451	Motto To LOVE-Ru							7.51	188,547
+452	Love Hina								7.23	188,178
+453	Black Cat								7.48	188,062
+454	Kämpfer									6.63	188,016
+455	Oda Nobuna no Yabou							7.61	187,552
+456	Shingeki no Kyojin OVA							7.88	187,546
+457	Hamatora The Animation							7.40	187,439
+458	Overlord III								8.24	187,341
+459	Evangelion: 3.0 You Can (Not) Redo					7.63	187,018
+460	Tamako Market								7.38	186,936
+461	Afro Samurai								7.40	186,621
+462	Densetsu no Yuusha no Densetsu						7.75	186,445
+463	ef: A Tale of Memories.							8.04	186,174
+464	Acchi Kocchi (TV)							7.60	185,134
+465	Stranger: Mukou Hadan							8.38	184,703
+466	Madan no Ou to Vanadis							7.30	184,607
+467	Kotoura-san								7.35	184,541
+468	Highschool of the Dead: Drifters of the Dead				6.75	184,004
+469	Saiki Kusuo no Ψ-nan							8.56	183,816
+470	Bakemono no Ko								8.48	183,717
+471	Aho Girl								7.21	183,487
+472	Little Busters!								7.61	182,259
+473	Citrus									6.81	182,216
+474	Space☆Dandy								7.88	182,182
+475	Boruto: Naruto the Movie						7.83	181,880
+476	Tanaka-kun wa Itsumo Kedaruge						8.02	181,769
+477	Bleach Movie 1: Memories of Nobody					7.55	181,375
+478	Kiss x Sis								7.17	181,123
+479	Nyan Koi!								7.31	180,910
+480	K: Return of Kings							7.77	179,203
+481	Hetalia Axis Powers							7.66	179,171
+482	Amnesia									6.32	179,067
+483	Angel Beats! Specials							7.73	178,404
+484	Hajimete no Gal								6.51	178,067
+485	Shijou Saikyou no Deshi Kenichi						8.21	177,498
+486	Itazura na Kiss								7.69	177,179
+487	Ga-Rei: Zero								7.71	176,894
+488	Darker than Black: Kuro no Keiyakusha Gaiden				8.04	175,834
+489	Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen			8.78	174,936
+490	Akuma no Riddle								6.77	174,930
+491	Sword Art Online: Extra Edition						6.85	174,422
+492	Magi: Sinbad no Bouken (TV)						8.11	174,253
+493	Persona 4 the Animation							7.61	174,098
+494	Shingeki no Kyojin: Kuinaki Sentaku					8.42	173,871
+495	Death March kara Hajimaru Isekai Kyousoukyoku				6.87	173,103
+496	Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen			7.96	172,332
+497	Shelter									8.41	172,183
+498	Shinmai Maou no Testament Burst						7.12	171,670
+499	Blood-C									6.70	171,366
+500	Sword Art Online: Alicization						8.20	170,898
+501	Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashi...	7.03	170,801
+502	Skip Beat!								8.23	170,693
+503	Saijaku Muhai no Bahamut						6.86	170,659
+504	Dragon Ball Kai								7.90	170,634
+505	11eyes									6.37	170,583
+506	The Last: Naruto the Movie						7.88	170,468
+507	Isekai wa Smartphone to Tomo ni.					6.77	170,406
+508	Hundred									6.57	170,120
+509	Chrno Crusade								7.75	169,845
+510	Tokyo Magnitude 8.0							8.15	169,649
+511	Kekkai Sensen &amp;amp; Beyond						8.06	169,581
+512	Maji de Watashi ni Koi Shinasai!					6.95	169,174
+513	Angel Beats!: Another Epilogue						7.59	168,940
+514	Redline									8.32	168,809
+515	Nurarihyon no Mago							7.74	168,760
+516	Shakugan no Shana III (Final)						7.66	168,401
+517	Nejimaki Seirei Senki: Tenkyou no Alderamin				7.87	168,392
+518	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Swo...	7.11	168,155
+519	Gin no Saji								8.15	167,836
+520	Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii d...	7.84	167,709
+521	Hachimitsu to Clover							8.13	167,426
+522	Kamisama no Memochou							7.63	167,405
+523	Megalo Box								8.10	167,228
+524	Oniichan dakedo Ai sae Areba Kankeinai yo ne!				6.70	167,173
+525	Noragami OVA								7.89	166,921
+526	MM!									7.27	165,985
+527	Detective Conan								8.25	165,631
+528	Golden Boy								8.04	165,081
+529	Final Fantasy VII: Advent Children					7.87	164,113
+530	Working&amp;#039;!!							7.95	163,979
+531	Tsubasa Chronicle							7.63	163,919
+532	Renai Boukun								6.89	163,909
+533	Koi to Uso								6.79	162,948
+534	Fate/stay night: Unlimited Blade Works - Prologue			8.22	162,492
+535	Quanzhi Gaoshou								8.09	162,304
+536	Taimadou Gakuen 35 Shiken Shoutai					7.04	161,642
+537	Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinma...	7.55	161,507
+538	Kanokon									6.64	161,461
+539	Hinamatsuri								8.35	161,360
+540	Berserk									6.68	161,339
+541	Mangaka-san to Assistant-san to The Animation				7.31	161,131
+542	Amaama to Inazuma							7.56	161,002
+543	Mahoutsukai no Yome: Hoshi Matsu Hito					8.24	160,408
+544	Sidonia no Kishi							7.79	160,379
+545	Goblin Slayer								7.72	160,242
+546	Seiken Tsukai no World Break						7.14	160,053
+547	World Trigger								7.67	160,026
+548	Gyakkyou Burai Kaiji: Ultimate Survivor					8.32	159,783
+549	K-On! Movie								8.34	159,415
+550	Omamori Himari								7.10	159,393
+551	Haibane Renmei								8.03	159,242
+552	Isekai Maou to Shoukan Shoujo no Dorei Majutsu				7.32	159,064
+553	Ping Pong The Animation							8.64	158,834
+554	Hayate no Gotoku!							7.69	158,471
+555	Hataraku Saibou								7.90	158,038
+556	Bokura ga Ita								7.45	157,938
+557	Kamisama no Inai Nichiyoubi						7.46	157,762
+558	Ghost Hunt								7.91	157,656
+559	Diabolik Lovers								5.69	157,500
+560	Juuni Taisen								6.68	157,225
+561	Binbougami ga!								7.82	156,818
+562	Soredemo Sekai wa Utsukushii						7.79	156,775
+563	Girls &amp;amp; Panzer							7.64	156,433
+564	Taboo Tattoo								5.97	155,977
+565	Mayoiga									5.64	155,973
+566	Houseki no Kuni								8.46	155,924
+567	Kizumonogatari II: Nekketsu-hen						8.68	155,891
+568	Ghost in the Shell: Stand Alone Complex 2nd GIG				8.54	155,889
+569	Kino no Tabi: The Beautiful World					8.42	155,652
+570	Karakai Jouzu no Takagi-san						7.91	155,574
+571	Watashi ga Motete Dousunda						7.39	155,280
+572	Dance in the Vampire Bund						7.16	155,122
+573	Mushishi Zoku Shou							8.76	155,105
+574	Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!	7.17	154,895
+575	Flying Witch								7.60	154,591
+576	Witch Craft Works							7.19	154,572
+577	One Punch Man: Road to Hero						7.83	154,321
+578	Canaan									7.35	154,221
+579	Medaka Box								7.16	154,159
+580	Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen		7.64	154,154
+581	Umineko no Naku Koro ni							7.26	153,939
+582	Sakura Trick								7.14	153,839
+583	Fate/kaleid liner Prisma☆Illya						7.23	153,696
+584	Zoku Natsume Yuujinchou							8.62	153,455
+585	Sekirei: Pure Engagement						7.52	153,045
+586	Ao no Exorcist Movie							7.80	152,832
+587	07-Ghost								7.35	152,516
+588	Mirai Nikki OVA								7.46	152,502
+589	Maken-Ki!								6.61	152,287
+590	Rozen Maiden								7.53	151,951
+591	Digimon Adventure 02							7.34	151,558
+592	Junjou Romantica							7.97	151,429
+593	Shouwa Genroku Rakugo Shinjuu						8.62	151,424
+594	Kamisama Hajimemashita◎							8.26	151,262
+595	Satsuriku no Tenshi							6.92	151,180
+596	Kizumonogatari III: Reiketsu-hen					8.86	150,291
+597	Kokoro Connect: Michi Random						8.11	150,235
+598	Busou Shoujo Machiavellianism						7.13	149,658
+599	Kantai Collection: KanColle						7.00	149,590
+600	Mobile Suit Gundam 00							8.21	149,363
+601	Okusama ga Seitokaichou!						6.83	148,953
+602	Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu			7.62	148,894
+603	Akagami no Shirayuki-hime 2nd Season					8.12	148,891
+604	Mahou Sensou								6.16	147,933
+605	Kara no Kyoukai 2: Satsujin Kousatsu (Zen)				7.94	147,553
+606	Love Live! School Idol Project 2nd Season				7.97	147,345
+607	Black★Rock Shooter (OVA)						7.20	147,301
+608	True Tears								7.47	147,239
+609	Sakasama no Patema							8.15	147,091
+610	Shugo Chara!								7.55	147,044
+611	Fuuka									6.72	146,399
+612	Black Lagoon: Roberta&amp;#039;s Blood Trail				8.12	146,349
+613	D.N.Angel								7.30	146,106
+614	Natsume Yuujinchou San							8.64	145,929
+615	K: Missing Kings							7.85	145,799
+616	Planetes								8.35	145,643
+617	Kara no Kyoukai 5: Mujun Rasen						8.62	145,582
+618	Ajin 2nd Season								7.88	145,314
+619	Naruto: Shippuuden Movie 1						7.40	145,150
+620	Tiger &amp;amp; Bunny							8.04	144,874
+621	Ryuugajou Nanana no Maizoukin						7.28	144,827
+622	Karigurashi no Arrietty							8.05	144,429
+623	Seitokai Yakuindomo*							7.81	144,406
+624	Sora yori mo Tooi Basho							8.61	144,182
+625	Psycho-Pass Movie							7.85	143,740
+626	Zero kara Hajimeru Mahou no Sho						7.21	143,356
+627	Joker Game								7.12	143,285
+628	Just Because!								7.39	142,990
+629	Bokusatsu Tenshi Dokuro-chan						6.74	141,948
+630	Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie		8.11	141,892
+631	Nazo no Kanojo X							7.35	141,535
+632	Aoharu x Kikanjuu							7.28	141,486
+633	Ranma ½									7.84	141,298
+634	Fate/stay night Movie: Unlimited Blade Works				7.52	141,204
+635	Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjo...	7.29	140,504
+636	InuYasha: Kanketsu-hen							8.32	140,494
+637	High School DxD Hero							7.54	140,461
+638	Kara no Kyoukai 3: Tsuukaku Zanryuu					8.15	140,349
+639	Asu no Yoichi!								6.94	140,242
+640	Kumo no Mukou, Yakusoku no Basho					7.73	140,184
+641	Kuragehime								8.20	140,134
+642	Detroit Metal City							8.21	140,003
+643	Karneval								7.29	139,950
+644	High School DxD OVA							7.44	139,716
+645	Death Billiards								8.00	139,455
+646	Myself; Yourself							7.32	139,297
+647	Natsume Yuujinchou Shi							8.72	139,018
+648	Terra Formars								7.13	138,642
+649	Punch Line								7.11	138,468
+650	Kokoro ga Sakebitagatterunda.						8.15	138,429
+651	Gankutsuou								8.21	138,284
+652	Mimi wo Sumaseba							8.29	138,110
+653	Seirei no Moribito							8.21	138,029
+654	Yuru Camp△								8.32	137,929
+655	White Album 2								7.87	137,814
+656	Gatchaman Crowds							7.41	137,670
+657	Chrome Shelled Regios							7.49	137,656
+658	Arcana Famiglia								6.40	137,378
+659	Seitokai no Ichizon							7.45	137,294
+660	Saenai Heroine no Sodatekata ♭						7.89	136,651
+661	SKET Dance								8.32	136,545
+662	Nanbaka									7.42	136,385
+663	Occultic;Nine								7.04	136,040
+664	Jitsu wa Watashi wa							7.06	135,906
+665	Ginga Eiyuu Densetsu							9.10	135,718
+666	Kuusen Madoushi Kouhosei no Kyoukan					6.58	135,652
+667	Princess Lover!								6.95	135,562
+668	Trinity Blood								7.40	135,389
+669	Mononoke								8.45	134,995
+670	Robotics;Notes								7.40	134,836
+671	Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru			7.47	134,593
+672	Kono Subarashii Sekai ni Shukufuku wo! OVA				7.87	134,185
+673	Naruto: Shippuuden Movie 6 - Road to Ninja				7.81	134,172
+674	Hajime no Ippo: New Challenger						8.72	134,134
+675	One Punch Man Specials							7.85	134,013
+676	Tamako Love Story							8.09	133,653
+677	Texhnolyze								7.78	133,601
+678	Ballroom e Youkoso							8.32	133,491
+679	Gintama&amp;#039;: Enchousen						9.06	133,455
+680	Kara no Kyoukai 4: Garan no Dou						7.99	133,241
+681	Working!!!								8.13	133,142
+682	Uta no☆Prince-sama♪ Maji Love 1000%					7.29	133,116
+683	.hack//Sign								7.08	133,018
+684	Ore ga Ojousama Gakkou ni &amp;quot;Shomin Sample&amp;quot; Toshite ...	7.02	132,711
+685	Kono Bijutsubu ni wa Mondai ga Aru!					7.40	132,679
+686	Gunslinger Girl								7.50	132,659
+687	Owarimonogatari 2nd Season						9.00	132,628
+688	Pokemon: Mewtwo no Gyakushuu						7.66	132,378
+689	Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen		7.74	132,292
+690	Shingeki no Bahamut: Virgin Soul					7.55	132,251
+691	Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials			7.55	132,237
+692	Tokyo Godfathers							8.31	131,836
+693	Yowamushi Pedal								8.10	131,364
+694	Imouto sae Ireba Ii.							7.53	131,206
+695	Ushio to Tora (TV)							7.66	131,204
+696	Naruto: Shippuuden Movie 2 - Kizuna					7.41	130,912
+697	Gochuumon wa Usagi desu ka?						7.59	130,906
+698	C³									6.78	130,250
+699	Dog Days								7.13	130,036
+700	Big Order (TV)								5.55	129,858
+701	Basilisk: Kouga Ninpou Chou						7.65	129,706
+702	Hitsugi no Chaika: Avenging Battle					7.29	129,614
+703	Busou Renkin								7.45	129,556
+704	Tonari no Seki-kun							7.67	129,452
+705	Ladies versus Butlers!							6.79	129,396
+706	Kono Naka ni Hitori, Imouto ga Iru!					6.77	129,068
+707	Shoujo Shuumatsu Ryokou							8.18	128,863
+708	Tenjou Tenge								7.04	128,596
+709	Rewrite									6.81	128,478
+710	Servamp									7.10	128,397
+711	Koi to Senkyo to Chocolate						7.23	128,353
+712	Karin									7.27	128,290
+713	Minami-ke								7.76	128,034
+714	Masou Gakuen HxH							6.42	127,908
+715	Devil Survivor 2 The Animation						7.01	127,756
+716	Papa no Iukoto wo Kikinasai!						7.44	127,709
+717	Kareshi Kanojo no Jijou							7.64	127,670
+718	Nabari no Ou								7.39	127,166
+719	Mushishi Zoku Shou 2nd Season						8.82	127,096
+720	Neon Genesis Evangelion: Death &amp;amp; Rebirth			7.50	126,732
+721	Sekaiichi Hatsukoi							8.05	126,700
+722	Last Exile								7.89	126,669
+723	Asobi ni Iku yo!							6.79	126,535
+724	Initial D First Stage							8.29	126,461
+725	To LOVE-Ru Darkness 2nd							7.69	126,438
+726	Kara no Kyoukai 7: Satsujin Kousatsu (Kou)				8.50	126,265
+727	Handa-kun								7.46	126,096
+728	Genshiken								7.71	125,890
+729	Neko no Ongaeshi							7.93	125,611
+730	Love Stage!!								7.60	125,561
+731	ef: A Tale of Melodies.							8.11	125,366
+732	Mnemosyne: Mnemosyne no Musume-tachi					7.42	125,229
+733	Eve no Jikan								8.17	125,129
+734	Plastic Neesan								7.35	125,120
+735	Hyakka Ryouran: Samurai Girls						6.93	125,058
+736	Soul Eater NOT!								6.20	125,032
+737	Pokemon: The Origin							7.88	124,931
+738	Shinryaku! Ika Musume							7.55	124,930
+739	Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!	6.98	124,889
+740	Jinrui wa Suitai Shimashita						7.86	124,431
+741	New Game!!								7.90	124,248
+742	Kaze Tachinu								8.19	124,214
+743	Fate/stay night Movie: Heaven&amp;#039;s Feel - I. Presage Flower	8.44	124,162
+744	Durarara!! Specials							7.99	124,139
+745	Baccano! Specials							8.23	123,963
+746	Aoi Bungaku Series							7.83	123,915
+747	Yu☆Gi☆Oh!								7.29	123,879
+748	Maria†Holic								7.13	123,757
+749	Servant x Service							7.77	123,726
+750	Higashi no Eden Movie I: The King of Eden				7.69	123,504
+751	Digimon Tamers								7.66	123,360
+752	One Outs								8.39	123,231
+753	Gungrave								7.93	122,976
+754	Seikoku no Dragonar							6.70	122,773
+755	Slam Dunk								8.54	122,704
+756	Tokyo ESP								6.62	122,263
+757	Dragon Crisis!								6.85	122,058
+758	Kyoukaisenjou no Horizon						7.22	121,724
+759	Higurashi no Naku Koro ni Rei						7.52	121,540
+760	Shuumatsu no Izetta							6.83	121,446
+761	Onegai☆Teacher								7.29	121,348
+762	One Piece Film: Strong World						8.31	120,982
+763	Tengen Toppa Gurren Lagann Movie 2: Lagann-hen				8.62	120,962
+764	Tokyo Ghoul: &amp;quot;Jack&amp;quot;					7.60	120,880
+765	Bleach Movie 4: Jigoku-hen						7.71	120,861
+766	Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari		8.27	120,664
+767	Romeo x Juliet								7.78	120,509
+768	Chihayafuru 2								8.47	120,144
+769	Gugure! Kokkuri-san							7.66	120,102
+770	Kara no Kyoukai 6: Boukyaku Rokuon					7.63	120,069
+771	Kakumeiki Valvrave							7.26	119,944
+772	Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA			7.63	119,832
+773	Strike Witches								7.10	119,322
+774	Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari			8.44	119,314
+775	Glasslip								5.53	119,282
+776	Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita			7.54	119,067
+777	Aku no Hana								7.18	118,687
+778	Clannad Movie								7.32	118,475
+779	Naruto: Shippuuden Movie 4 - The Lost Tower				7.53	117,907
+780	Hoshi wo Ou Kodomo							7.70	117,837
+781	Sengoku Basara								7.49	117,700
+782	Love Lab								7.43	117,650
+783	Rail Wars!								6.46	117,577
+784	One Piece Film: Z							8.31	117,298
+785	Kill la Kill Specials							7.80	117,259
+786	Mobile Suit Gundam SEED							7.87	116,915
+787	Grisaia no Meikyuu: Caprice no Mayu 0					8.03	116,466
+788	GJ-bu									7.43	116,193
+789	Another: The Other - Inga						7.43	116,187
+790	Utawarerumono								7.73	115,952
+791	Fullmetal Alchemist: The Sacred Star of Milos				7.43	115,915
+792	Grand Blue								8.41	115,722
+793	Diamond no Ace								8.19	115,472
+794	Berserk: Ougon Jidai-hen I - Haou no Tamago				7.87	115,230
+795	Haiyore! Nyaruko-san W							7.39	115,133
+796	Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Datteba...	6.96	115,107
+797	Aa! Megami-sama! (TV)							7.42	115,098
+798	Hakuouki								7.53	115,096
+799	Hoshizora e Kakaru Hashi						6.95	115,044
+800	D.Gray-man Hallow							7.90	115,015
+801	Cross Ange: Tenshi to Ryuu no Rondo					7.48	114,960
+802	Yuru Yuri♪♪								7.92	114,722
+803	Fairy Tail Movie 1: Houou no Miko					7.62	114,590
+804	Kuroshitsuji: Book of Murder						8.33	114,581
+805	Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me			7.48	114,411
+806	Kyoukai no Kanata Movie 2: I&amp;#039;ll Be Here - Mirai-hen		8.30	114,230
+807	Death Note: Rewrite							7.80	114,127
+808	Divine Gate								5.78	113,821
+809	Ousama Game The Animation						5.17	113,711
+810	Koi wa Ameagari no You ni						7.61	113,548
+811	Kiniro Mosaic								7.35	113,484
+812	Tsuritama								7.78	113,397
+813	Flip Flappers								7.76	113,134
+814	Kimi to Boku.								7.80	112,962
+815	Noragami Aragoto OVA							8.08	112,935
+816	Akaneiro ni Somaru Saka							6.60	112,680
+817	Kannagi									7.38	112,653
+818	Jormungand: Perfect Order						8.01	112,641
+819	Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare			9.02	112,589
+820	Rokujouma no Shinryakusha!?						7.28	112,071
+821	Seiken no Blacksmith							6.89	112,060
+822	Pupa									3.68	112,036
+823	Macross F								7.97	111,962
+824	Junjou Romantica 2							8.13	111,828
+825	Shingetsutan Tsukihime							7.03	111,777
+826	School Rumble Ni Gakki							8.11	111,717
+827	Midori no Hibi								7.38	111,522
+828	Ghost in the Shell 2: Innocence						7.89	111,367
+829	Eyeshield 21								8.04	111,347
+830	So Ra No Wo To								7.59	111,322
+831	Tokyo Ghoul:re 2nd Season						7.01	111,189
+832	Tennis no Ouji-sama							8.00	111,036
+833	Kobato.									8.05	110,987
+834	Poputepipikku								7.34	110,935
+835	Fairy Tail OVA								7.74	110,853
+836	Hajime no Ippo: Rising							8.66	110,796
+837	Shoujo Kakumei Utena							8.21	110,777
+838	Isekai no Seikishi Monogatari						8.01	110,342
+839	Aoki Hagane no Arpeggio: Ars Nova					7.49	110,162
+840	Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono			7.47	109,970
+841	Paradise Kiss								7.89	109,863
+842	Gantz 2nd Stage								7.21	109,840
+843	Seiren									6.37	109,713
+844	Yamato Nadeshiko Shichihenge♥						7.85	109,336
+845	Subete ga F ni Naru: The Perfect Insider				7.32	109,268
+846	High School DxD Specials						7.37	109,221
+847	Prince of Stride: Alternative						7.02	108,941
+848	Zombie-Loan								7.00	108,910
+849	Kanojo ga Flag wo Oraretara						6.57	108,857
+850	Yu☆Gi☆Oh!: Duel Monsters GX						7.23	108,851
+851	Grancrest Senki								7.27	108,690
+852	Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai		8.32	108,652
+853	DearS									6.73	108,559
+854	Freezing Vibration							7.00	108,461
+855	Hoshi no Koe								7.37	108,298
+856	Michiko to Hatchin							7.88	108,281
+857	Denpa-teki na Kanojo							7.68	107,995
+858	Little Witch Academia: Mahoujikake no Parade				7.88	107,886
+859	Ikkitousen								6.56	107,686
+860	Mobile Suit Gundam: Iron-Blooded Orphans				8.01	107,588
+861	Kimi ga Nozomu Eien							7.34	107,535
+862	Uchouten Kazoku								7.94	107,414
+863	Naruto: Shippuuden Movie 5 - Blood Prison				7.60	107,317
+864	Needless								7.37	107,302
+865	Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel		7.57	107,113
+866	The iDOLM@STER								7.70	106,860
+867	Knight&amp;#039;s &amp;amp; Magic					7.30	106,855
+868	Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu		7.95	106,739
+869	Nourin									6.93	106,689
+870	To LOVE-Ru OVA								7.45	106,572
+871	Yumekui Merry								7.03	106,562
+872	UN-GO									7.47	106,527
+873	3-gatsu no Lion 2nd Season						9.06	106,478
+874	Mobile Suit Gundam Wing							7.83	106,154
+875	Selector Infected WIXOSS						7.35	106,140
+876	Arakawa Under the Bridge x Bridge					7.81	106,092
+877	Bokurano								7.74	106,027
+878	Carnival Phantasm							7.97	105,892
+879	Higashi no Eden Movie II: Paradise Lost					7.72	105,854
+880	Brave 10								6.91	105,791
+881	Dantalian no Shoka							7.31	105,745
+882	Persona 5 the Animation							6.80	105,673
+883	Berserk: Ougon Jidai-hen III - Kourin					8.30	105,666
+884	Kurenai no Buta								8.03	105,531
+885	Re:␣Hamatora								7.48	105,491
+886	Mobile Suit Gundam 00 Second Season					8.17	105,419
+887	Casshern Sins								7.58	105,145
+888	DRAMAtical Murder							6.27	104,998
+889	Uchuu Kyoudai								8.55	104,814
+890	Nijiiro Days								7.49	104,773
+891	Choujigen Game Neptune The Animation					7.13	104,760
+892	Hibike! Euphonium 2							8.29	104,610
+893	Tada-kun wa Koi wo Shinai						7.60	104,582
+894	Jigoku Shoujo Futakomori						8.03	104,569
+895	Omoide no Marnie							8.25	104,503
+896	Saikin, Imouto no Yousu ga Chotto Okashiinda ga.			6.40	104,484
+897	Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no ...	7.62	104,470
+898	Tari Tari								7.39	104,322
+899	Berserk: Ougon Jidai-hen II - Doldrey Kouryaku				8.05	103,891
+900	Junketsu no Maria							7.23	103,776
+901	Tenkuu no Escaflowne							7.77	103,704
+902	Mashiro-iro Symphony: The Color of Lovers				7.24	103,659
+903	Koyomimonogatari							7.77	103,654
+904	Kyousou Giga (TV)							7.88	103,390
+905	Gintama.								9.00	103,061
+906	Princess Principal							7.71	103,041
+907	Girls Bravo: First Season						6.60	102,964
+908	Osomatsu-san								8.15	102,951
+909	Pokemon: Maboroshi no Pokemon Lugia Bakutan				7.45	102,624
+910	Nurarihyon no Mago: Sennen Makyou					8.10	102,592
+911	Tensei shitara Slime Datta Ken						8.18	102,359
+912	Fairy Tail: Final Series						8.35	102,035
+913	Boku no Kanojo ga Majimesugiru Sho-bitch na Ken				6.45	102,026
+914	B: The Beginning							7.62	101,874
+915	Dragon Ball Z Movie 14: Kami to Kami					7.56	101,765
+916	Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero		8.33	101,658
+917	Loveless								7.09	101,412
+918	Himouto! Umaru-chan R							7.49	101,351
+919	Ao no Kanata no Four Rhythm						6.85	101,309
+920	Brothers Conflict							6.50	101,109
+921	Saint Seiya								7.95	101,077
+922	Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu n...	8.16	100,859
+923	ReLIFE: Kanketsu-hen							8.31	100,570
+924	Little Busters!: Refrain						8.31	100,182
+925	Aria The Animation							7.75	100,078
+926	Date A Live: Date to Date						7.50	99,537
+927	Dennou Coil								8.14	99,467
+928	Seihou Bukyou Outlaw Star						7.95	99,370
+929	Mahou Sensei Negima!							7.07	99,358
+930	Non Non Biyori Repeat							8.22	99,249
+931	Joukamachi no Dandelion							7.30	99,088
+932	Bounen no Xamdou							7.76	98,996
+933	Amagami SS+ Plus							7.55	98,840
+934	Digimon Frontier							7.24	98,823
+935	Isekai Shokudou								7.39	98,815
+936	Tengen Toppa Gurren Lagann Movie 1: Gurren-hen				8.22	98,485
+937	Clockwork Planet							6.58	98,399
+938	Heavy Object								7.37	98,322
+939	Nogizaka Haruka no Himitsu						7.31	98,280
+940	Deadman Wonderland: Akai Knife Tsukai					7.07	98,199
+941	Senjou no Valkyria							7.70	98,097
+942	Lucky☆Star: Original na Visual to Animation				7.88	97,905
+943	Shinreigari: Ghost Hound						7.53	97,870
+944	Kokkoku									7.18	97,771
+945	Princess Tutu								8.21	97,670
+946	Astarotte no Omocha!							6.74	97,667
+947	Sabage-bu!								7.44	97,568
+948	Ore, Twintail ni Narimasu.						6.68	97,098
+949	Code Geass: Fukkatsu no Lelouch						N/A	96,913
+950	Tokyo Ghoul: &amp;quot;Pinto&amp;quot;					7.50	96,741
+951	Samurai Flamenco							6.96	96,653
+952	Sekai Seifuku: Bouryaku no Zvezda					7.15	96,549
+953	Kino no Tabi: The Beautiful World - The Animated Series			7.61	96,537
+954	No Game No Life Specials						6.80	96,507
+955	Toradora!: Bentou no Gokui						7.52	96,408
+956	Kujira no Kora wa Sajou ni Utau						7.33	96,356
+957	Evangelion: 3.0+1.0							N/A	96,353
+958	Qualidea Code								6.64	96,305
+959	Pokemon: Kesshoutou no Teiou Entei					7.16	96,173
+960	Denpa Kyoushi								6.98	96,037
+961	Mayoi Neko Overrun!							6.82	96,028
+962	Shinrei Tantei Yakumo							7.43	95,859
+963	Saiki Kusuo no Ψ-nan 2							8.67	95,596
+964	Itsuka Tenma no Kuro Usagi						6.75	95,569
+965	Final Fantasy VII: Advent Children Complete				8.07	95,356
+966	Kore wa Zombie Desu ka? OVA						7.51	95,344
+967	Colorful (Movie)							7.97	95,039
+968	Mahou Shoujo Ikusei Keikaku						7.11	95,025
+969	Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials			6.54	94,706
+970	Beatless								6.21	94,418
+971	Uchuu Patrol Luluco							7.69	94,235
+972	Yozakura Quartet							6.91	94,198
+973	Inari, Konkon, Koi Iroha.						7.27	94,084
+974	Pokemon Advanced Generation						7.18	94,052
+975	Green Green								6.35	93,658
+976	Love Live! Sunshine!!							7.53	93,638
+977	Garo: Honoo no Kokuin							7.49	93,287
+978	Sekaiichi Hatsukoi 2							8.21	93,114
+979	Isuca									6.15	93,094
+980	Slayers									7.84	93,008
+981	Tales of the Abyss							7.41	92,926
+982	xxxHOLiC Kei								8.30	92,738
+983	Fullmetal Alchemist: Brotherhood Specials				8.10	92,701
+984	Blade &amp;amp; Soul							6.19	92,625
+985	Sora no Otoshimono: Tokeijikake no Angeloid				7.76	92,477
+986	Juuou Mujin no Fafnir							6.42	92,412
+987	Hyouka: Motsubeki Mono wa						7.40	92,297
+988	Yuuki Yuuna wa Yuusha de Aru						7.46	92,229
+989	Gin no Saji 2nd Season							8.33	92,001
+990	Nisekoi OVA								7.51	91,911
+991	Medaka Box Abnormal							7.56	91,756
+992	Boku no Hero Academia the Movie: Futari no Hero				8.31	91,602
+993	Vampire Hunter D (2000)							7.92	91,481
+994	Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen	7.54	91,477
+995	Kimi no Iru Machi							7.10	91,457
+996	Coppelion								6.54	91,443
+997	Tsubasa Chronicle 2nd Season						7.68	91,385
+998	Akikan!									6.32	91,259
+999	Bishoujo Senshi Sailor Moon R						7.75	91,098
+1000	Strawberry Panic							7.40	91,084
